@@ -11,6 +11,8 @@ DIA 2
 
 8:30 am me levamto
 9:30 am tomo una ducha
-10:30 am desayuno
-12:00 pm almuerzo
+10:30 am no desayune
+11:30 am si desayune
+12:00 pm  no almuerce
+1:30 pm si almorce
 2:00pm-6:00pm repazo un rato
