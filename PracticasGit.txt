@@ -6,3 +6,11 @@ DIA 1
 10:30 am desayuno
 12:00 pm almuerzo
 2:00pm-6:00pm repazo un rato
+
+DIA 2
+
+8:30 am me levamto
+9:30 am tomo una ducha
+10:30 am desayuno
+12:00 pm almuerzo
+2:00pm-6:00pm repazo un rato
